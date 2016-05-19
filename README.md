@@ -8,3 +8,4 @@
 ![screen2](https://raw.githubusercontent.com/penk/TravelStickUke/master/images/uke-2.jpg)
 ![screen3](https://raw.githubusercontent.com/penk/TravelStickUke/master/images/uke-3.jpg)
 
+See it in action [on Vimeo](https://vimeo.com/167282985). 
